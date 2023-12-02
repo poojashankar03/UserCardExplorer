@@ -43,4 +43,4 @@ A simple web page displaying user cards in a grid format. Users are fetched from
 - User cards are dynamically created and inserted into the user grid.
 - Loading and error states are handled for a better user experience.
 
-**Happy coding!** 🚀
+## Happy Coding📝🚀
